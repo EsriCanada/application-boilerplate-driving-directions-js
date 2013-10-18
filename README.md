@@ -1,4 +1,4 @@
-application-boilerplate-drving-directions-js
+application-boilerplate-driving-directions-js
 ============================================
 
 Application boilerplate with authenticated driving directions.
