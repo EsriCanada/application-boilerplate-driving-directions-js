@@ -23,6 +23,24 @@
                 "value": "pavement"
             }]
         }]
-    }],
-    "values": {}
+    },
+        {
+            "category": "<b>Authentication details</b>",
+            "fields": [
+                {
+                    "placeHolder": "Lh27CEpEXlNcQlqm",
+                    "label": "OAuth AppID:",
+                    "fieldName": "oauthappid",
+                    "type": "string",
+                    "tooltip": "The AppID provided to you"
+                },
+                {
+                    "type": "boolean",
+                    "fieldName": "useapplogin",
+                    "label": "Use App Login",
+                    "tooltip": "Check to allow user not known to AGOL to access this app "
+                }
+            ]
+        }],
+    "values": {"useapplogin": false}
 }
