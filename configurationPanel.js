@@ -28,7 +28,7 @@
             "category": "<b>Authentication details</b>",
             "fields": [
                 {
-                    "placeHolder": "Lh27CEpEXlNcQlqm",
+                    "placeHolder": "example appid",
                     "label": "OAuth AppID:",
                     "fieldName": "oauthappid",
                     "type": "string",
